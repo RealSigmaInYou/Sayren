@@ -1,0 +1,4 @@
+[X] få popupen til å dukke opp
+[ ] få den til å dukke opp på riktig sted
+[X] få den til å ikke lage duplikater
+[ ] legge til en limiter, slik at den ikke kan blir støre via en new-line. heller legge til en "mer" knapp på popupen slik at man kan se hele meldingen.

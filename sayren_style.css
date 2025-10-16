@@ -1,0 +1,55 @@
+
+.standard{
+    display: grid;
+    font-family: Arial, sans-serif;
+    padding: 10px;
+    position: absolute;
+    color: black;
+    top: 10px;
+    border-radius: 5px;
+    border: 1px solid rgb(153, 153, 153);
+    left: 15%;
+    max-width: 70vw;
+}
+
+.popup {
+    text-align: left;
+    font-weight: bold;
+    white-space: nowrap;
+    overflow: hidden;
+    height: 1rem;
+    width: fit-content;
+
+    white-space: initial;
+}
+
+#error{
+    background-color: rgb(255, 116, 116);
+}
+
+#validation{
+    background-color: rgb(130, 216, 130);
+}
+
+#alert{
+    background-color: rgb(255, 225, 106);
+}
+
+.x_image {
+    margin-left: 60px;
+    width: 16px;
+    height: 16px;
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    cursor: pointer;
+    align-self: left;
+}
+
+.info_text {
+    text-align: right;
+    text-decoration: underline;
+    overflow: visible;
+    text-overflow: ellipsis;
+    max-width: calc(70vw - 13px);
+}

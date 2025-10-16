@@ -1,0 +1,15 @@
+  {
+  "name": "sayren",
+  "version": "1.0.0",
+  "description": "alert library",
+  "main": "popup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
